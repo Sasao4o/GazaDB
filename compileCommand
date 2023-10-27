@@ -1,0 +1,1 @@
+        g++ -o ./o ./main.cpp ./src/storage/internals/DiskManager.cpp  ./src/storage/table/Tuple.cpp   ./src/storage/metadata/Schema.cpp 
